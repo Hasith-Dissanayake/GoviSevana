@@ -80,7 +80,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyDDzTDITDlWBvWm_M3yb27G8X_NXd4J-ME"/>
+            android:value="YOUR_API_KEY_HERE"/>
 
     </application>
 
