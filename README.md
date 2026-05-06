@@ -40,9 +40,15 @@
 
 ## 🖼️ UI Showcase
 
-| Login Screen | Search Products | Add New Product |
+<div align="center">
+
+| Splash & Onboarding | Authentication | Dashboard & Products |
 | :---: | :---: | :---: |
-| ![Login](docs/images/3.jpg) | ![Search](docs/images/14.jpg) | ![Add Product](docs/images/15.jpg) |
+| <img src="docs/images/1.jpg" width="200"> | <img src="docs/images/3.jpg" width="200"> | <img src="docs/images/14.jpg" width="200"> |
+| <img src="docs/images/2.jpg" width="200"> | <img src="docs/images/6.jpg" width="200"> | <img src="docs/images/15.jpg" width="200"> |
+| <img src="docs/images/4.jpg" width="200"> | <img src="docs/images/9.jpg" width="200"> | <img src="docs/images/16.jpg" width="200"> |
+
+</div>
 
 ---
 
