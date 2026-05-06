@@ -1,6 +1,6 @@
 # Govi Sevana - Local Farmers' M-Commerce Platform
 
-![GoviSevana Logo](../ui/1.jpg)
+![GoviSevana Logo](docs/images/1.jpg)
 
 **Govi Sevana** is a mobile commerce platform designed to bridge the gap between local farmers and consumers. By providing a direct marketplace, the platform ensures fair pricing for farmers and fresh produce for buyers, eliminating unnecessary intermediaries.
 
@@ -42,7 +42,7 @@
 
 | Login Screen | Search Products | Add New Product |
 | :---: | :---: | :---: |
-| ![Login](../ui/3.jpg) | ![Search](../ui/14.jpg) | ![Add Product](../ui/15.jpg) |
+| ![Login](docs/images/3.jpg) | ![Search](docs/images/14.jpg) | ![Add Product](docs/images/15.jpg) |
 
 ---
 
