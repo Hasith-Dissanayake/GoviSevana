@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="20dp"
+    android:background="@android:color/white"
+    app:cardCornerRadius="16dp"
+    app:cardElevation="8dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="20dp">
+
+
+        <TextView
+            android:id="@+id/dialogTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Bank Details"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="@android:color/black"
+            android:gravity="center"
+            android:layout_gravity="center_horizontal"
+            android:paddingBottom="10dp"/>
+
+
+        <EditText
+            android:id="@+id/bankName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Bank Name"
+            android:background="@drawable/edit_text_rounded_border"
+            android:padding="12dp"
+            android:textSize="16sp"
+            android:textColor="@android:color/black"
+            android:inputType="text"/>
+
+
+        <EditText
+            android:id="@+id/branchName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Branch Name"
+            android:background="@drawable/edit_text_rounded_border"
+            android:padding="12dp"
+            android:textSize="16sp"
+            android:textColor="@android:color/black"
+            android:inputType="text"
+            android:layout_marginTop="10dp"/>
+
+
+        <EditText
+            android:id="@+id/accountNumber"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Account Number"
+            android:background="@drawable/edit_text_rounded_border"
+            android:padding="12dp"
+            android:textSize="16sp"
+            android:textColor="@android:color/black"
+            android:inputType="number"
+            android:layout_marginTop="10dp"/>
+
+
+        <EditText
+            android:id="@+id/accountHolder"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Account Holder Name"
+            android:background="@drawable/edit_text_rounded_border"
+            android:padding="12dp"
+            android:textSize="16sp"
+            android:textColor="@android:color/black"
+            android:inputType="text"
+            android:layout_marginTop="10dp"/>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="end"
+            android:layout_marginTop="16dp">
+
+            <Button
+                android:id="@+id/cancelButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Cancel"
+                android:textColor="@android:color/black"
+                android:background="@android:color/transparent"/>
+
+            <Button
+                android:id="@+id/saveBankDetailsButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Save"
+                android:textColor="@android:color/white"
+                android:backgroundTint="@android:color/holo_blue_dark"
+                android:layout_marginStart="10dp"/>
+        </LinearLayout>
+
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

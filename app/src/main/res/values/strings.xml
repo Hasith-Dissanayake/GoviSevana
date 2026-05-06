@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">GoviSevana</string>
+
+    <!--    splash screen-->
+    <string name="intro_title">"Discover<font color="#25D366"> Fresh</font> &amp;  <font color="#25D366"> Healthy</font>  Groceries"</string>
+    <string name="intro_title2">"Bringing nature’s best right to your doorstep!"</string>
+    <string name="intro_btn1">"Discover Fresh Picks"</string>
+
+
+    <!--    login screen-->
+    <string name="signinText">"Welcome Back!"</string>
+    <string name="signinEmail">"Email Address*"</string>
+    <string name="signinPassword">"Password*"</string>
+    <string name="signinForgotPassword">"Forgot Password?"</string>
+    <string name="signinButton">"LOG IN"</string>
+    <string name="signinText2">"Don't have an account? Sign Up"</string>
+
+    <!--    signup phone number mobile screen -->
+    <string name="text1">SignUp</string>
+    <string name="text2">"We'll send a code to your mobile number."</string>
+    <string name="text3">Enter Mobile Number</string>
+    <string name="text3.1">Already have an account? <font color="#25D366"><b>LOG IN</b></font></string>
+    <string name="button1">Send Code Via SMS</string>
+
+
+    <!--    signup otp screen-->
+    <string name="text4">OTP Verification</string>
+    <string name="text5">Please enter the 6-digit code sent to:</string>
+    <string name="button2">Next</string>
+    <string name="text6">Resend Code 60 seconds</string>
+
+    <!--    signup user details-->
+
+    <string name="text7">Full Name</string>
+    <string name="text8">"Password*"</string>
+    <string name="text9">"Retype Password*"</string>
+    <string name="text10">Fill in the Details</string>
+    <string name="signupRadio1">I am a Farmer</string>
+    <string name="signupRadio2">I am a Buyer</string>
+    <string name="button3">SIGN UP</string>
+
+    <!--    forgrot password-->
+
+    <string name="text11">Forgot Password</string>
+    <string name="text12">Reset Password</string>
+    <string name="button4">Reset Password</string>
+
+
+    <!--    add product-->
+    <string name="text13">Cancel</string>
+    <string name="text14">Listing Summary</string>
+    <string name="text15">Title</string>
+    <string name="text16">Product Title (100 characters)</string>
+    <string name="text17">Description</string>
+    <string name="text18">Product Description (1000 characters)</string>
+    <string name="text19">Quantity (KG)</string>
+    <string name="text20">Product Quantity (KG)</string>
+    <string name="text21">Price</string>
+    <string name="text22">The price of 1 kg</string>
+    <string name="text23">Add Product</string>
+
+    <!--  chat-->
+    <string name="text24">Write messages here</string>
+
+    <!--    message-->
+
+    <string name="text25">Messages</string>
+    <string name="text26">User Name</string>
+
+    <!--    farmer account-->
+    <string name="text27">My Account</string>
+
+
+    <!--    singleProduct-->
+    <string name="text28">Buy Now</string>
+    <string name="text29">Add to Cart</string>
+
+    <!--    cart-->
+    <string name="text30">Shopping Cart</string>
+
+
+    <string name="signupText5">Full Name</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
